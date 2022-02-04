@@ -1,0 +1,12 @@
+body {
+    background-color:darkolivegreen;
+}
+
+#calculation {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+}
+#result {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+}
